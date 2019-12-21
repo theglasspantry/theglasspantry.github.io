@@ -10,5 +10,78 @@
 	<atom:link href="https://www.glasspantrymilwaukee.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://www.glasspantrymilwaukee.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/faq/</guid>
+      <description>How does it work? Buying in bulk means you get to choose the quantity of a product you need and pay by weight. Dispense into a container of your choosing and pay only for what you need. Feel free to bring your own clean containers to fill or use what we have in the store.  Who are your suppliers? Our goal is to use local and organic suppliers whenever possible.</description>
+    </item>
+    
+    <item>
+      <title>Here are some great resources to check out!</title>
+      <link>https://www.glasspantrymilwaukee.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/resources/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>Hi, My name is Jenna.</title>
+      <link>https://www.glasspantrymilwaukee.com/owner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/owner/</guid>
+      <description>Hi. My name is Jenna and I want to make your zero waste journey a little less difficult. When I started trying to reduce waste in my own home, I found that the bulk section was an awesome place to hang out. Buying in bulk allowed me to easily avoid packaging, get the quantities I wanted, and save money. I was all like, “This isn’t so hard, my garbage can will be history in no time!</description>
+    </item>
+    
+    <item>
+      <title>So what exactly is &#39;Zero Waste?&#39;</title>
+      <link>https://www.glasspantrymilwaukee.com/zerowaste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/zerowaste/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events!</title>
+      <link>https://www.glasspantrymilwaukee.com/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/events/</guid>
+      <description>Coming soon
+Stay tuned for workshops, classes, and events!</description>
+    </item>
+    
+    <item>
+      <title>Weigh, pay, be on your way!</title>
+      <link>https://www.glasspantrymilwaukee.com/pay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/pay/</guid>
+      <description>When you’re all set, bring your containers in and we will weigh them. You will be provided with a tare weight for each container. Since you will be paying by weight for each item, we want to make sure that the weight of your container is subtracted from the final cost.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s available for refill?</title>
+      <link>https://www.glasspantrymilwaukee.com/fill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/fill/</guid>
+      <description>Our selection is ever changing based on YOUR feedback so if we don’t have something you are looking for, let us know! Below is a sample of what we will have available: Dry Goods: Beans, nuts, seeds, grains, pulses, rice, pasta, spices, herbs, chocolates, flour, coffee, tea, &amp;amp; dried fruits Liquid Goods: Cooking oils, &amp;amp; vinegars Household and Personal Products: Shampoo, conditioner, soaps, detergents, &amp;amp; household cleaners  We also have SO MANY fun gift, household, and personal care items to help make sustainable living easy for you and your family and your friends and your cat.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the deal with BYO Containers?</title>
+      <link>https://www.glasspantrymilwaukee.com/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/containers/</guid>
+      <description>In order to shop zero-waste, you will need some supplies. Round up some containers and bring them in to fill with the products you need. Jars, containers, bags, bottles, growlers, bowls, boxes, cups, anything will work! As long as it is clean, you can fill it.</description>
+    </item>
+    
   </channel>
 </rss>

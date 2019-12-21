@@ -42,14 +42,34 @@
       <div id="navbar-menu" class="navbar-menu is-static">
 
         <div class="navbar-end">
-          <a href="#About" class="navbar-item is-secondary">
+          <a href="/#About" class="navbar-item is-secondary">
             About
           </a>
-          <a href="#Howitworks" class="navbar-item is-secondary">
-            How it works
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              How it works
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/containers" class="navbar-item">
+                Containers
+              </a>
+              <a href="/fill" class="navbar-item">
+                Fill
+              </a>
+              <a href="/pay" class="navbar-item">
+                Paying
+              </a>
+            </div>
+          </div>
+          <a href="/events" class="navbar-item is-secondary">
+            Events
           </a>
-          <a href="#Contact" class="navbar-item is-secondary">
+          <a href="/#Contact" class="navbar-item is-secondary">
             Contact
+          </a>
+          <a href="/faq" class="navbar-item is-secondary">
+            FAQ
           </a>
         </div>
       </div>
@@ -75,14 +95,34 @@
     <div id="cloned-navbar-menu" class="navbar-menu is-fixed">
 
       <div class="navbar-end">
-        <a href="#About" class="navbar-item is-secondary">
+        <a href="/#About" class="navbar-item is-secondary">
           About
         </a>
-        <a href="#Howitworks" class="navbar-item is-secondary">
-          How it works
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            How it works
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/containers" class="navbar-item">
+              Containers
+            </a>
+            <a href="/fill" class="navbar-item">
+              Fill
+            </a>
+            <a href="/pay" class="navbar-item">
+              Paying
+            </a>
+          </div>
+        </div>
+        <a href="/events" class="navbar-item is-secondary">
+          Events
         </a>
-        <a href="#Contact" class="navbar-item is-secondary">
+        <a href="/#Contact" class="navbar-item is-secondary">
           Contact
+        </a>
+        <a href="/faq" class="navbar-item is-secondary">
+          FAQ
         </a>
       </div>
     </div>
@@ -142,7 +182,7 @@
 
     
     
-<section class="section section-feature-grey is-medium" name="Howitworks">
+<section class="section section-feature-grey is-medium" id="Howitworks">
   <div class="container">
     <div class="title-wrapper has-text-centered">
       <h2 class="title is-2">Package Free</h2>
@@ -158,15 +198,14 @@
               <h4></h4>
             </div>
             <div class="card-icon">
-                <img src="/images/illustrations/icons/weigh-256x256.jpg">
+                <img src="/images/illustrations/icons/weigh-712.jpg">
             </div>
-              </br>
             <div class="card-text">
                 <p>Bring your containers in and weigh them.</p>
             </div>
-
-
-
+            <div class="card-action">
+              <a href="/containers" class="button btn-align-md accent-btn raised">Learn More</a>
+            </div>
           </div>
         </div>
         <div class="column is-one-third">
@@ -175,15 +214,14 @@
               <h4></h4>
             </div>
             <div class="card-icon">
-                <img src="/images/illustrations/icons/fill-256x256.jpg">
+                <img src="/images/illustrations/icons/fill-712.jpg">
             </div>
-              </br>
             <div class="card-text">
-                <p>Fill em&#39; up! Go crazy filling your lunchbox with lentils and peanuts and beans, Oh My!</p>
+                <p>Go crazy filling your lunchbox with lentils and peanuts and beans. Oh My!</p>
             </div>
-
-
-
+            <div class="card-action">
+              <a href="/fill" class="button btn-align-md accent-btn raised">Learn More</a>
+            </div>
           </div>
         </div>
         <div class="column is-one-third">
@@ -192,15 +230,14 @@
               <h4></h4>
             </div>
             <div class="card-icon">
-                <img src="/images/illustrations/icons/pay-256x256.jpg">
+                <img src="/images/illustrations/icons/pay-712.jpg">
             </div>
-              </br>
             <div class="card-text">
                 <p>At checkout re-weigh, pay, and be on your merry way!</p>
             </div>
-
-
-
+            <div class="card-action">
+              <a href="/pay" class="button btn-align-md accent-btn raised">Learn More</a>
+            </div>
           </div>
         </div>
       </div>
@@ -211,7 +248,7 @@
     
 
     
-    <section class="section section-light-grey is-medium" name="Contact">
+    <section class="section section-light-grey is-medium" id="Contact">
     <div class="container">
         <div class="title-wrapper has-text-centered">
             <h2 class="title is-2 is-spaced">Drop us a line or two </h2>
@@ -248,6 +285,38 @@
 
     
     
+<section class="section section-feature-grey" id="Map">
+    <div class="container">
+        <div class="title-wrapper has-text-centered">
+            <h2 class="title is-2">Find Us!</h2>
+            <div class="divider is-centered"></div>
+        </div>
+    </div>
+    <div class="content-wrapper has-text-centered">
+        <div class="columns is-mobile">
+            <div class="column is-three-fifths is-offset-one-fifth">
+                <span>
+                    <div id="googleMap" style="width:100%;height:400px;"></div>
+                    <script>
+                        function myMap() {
+                            var mapProp= {
+                                center:new google.maps.LatLng(51.508742,-0.120850),
+                                zoom:5,
+                            };
+                            var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+                        }
+                    </script>
+                    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuWa7-MO02b6QYuctu1mcOp-xrkGLI5l4&callback=myMap"></script>
+                </span>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+    
+    
 <footer class="footer footer-dark">
   <div class="container">
     <div class="columns">
@@ -263,23 +332,46 @@
             </div>
             <ul class="link-list">
               <li>
-                <a href="/">
+                <a href="/zerowaste">
                   About Zero Waste
                 </a>
               </li>
               <li>
-                <a href="/">
+                <a href="/owner">
                   Meet the Owner
                 </a>
               </li>
               <li>
-                <a href="/">
+                <a href="/resources">
                   Resources
                 </a>
               </li>
             </ul>
           </div>
         </div>
+        <div class="column">
+            <div class="footer-column">
+                <div class="footer-header">
+                    <h3>Address</h3>
+                </div>
+                1039 S. 5th Street
+                </br>
+                Milwaukee, Wisconsin 53204
+                </br>
+            </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
       <div class="column">
         <div class="footer-column">
           <div class="footer-header">
@@ -323,5 +415,15 @@
 <script src="/js/fresh.js"></script>
 <script src="/js/jquery.panelslider.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C2Y98FXSNT"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C2Y98FXSNT');
+</script>
+
   </body>
 </html>
