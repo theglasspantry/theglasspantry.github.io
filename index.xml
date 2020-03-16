@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Online Shop</title>
+      <link>https://www.glasspantrymilwaukee.com/shop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.glasspantrymilwaukee.com/shop/</guid>
+      <description>  xProductBrowser(&#34;categoriesPerRow=3&#34;,&#34;views=grid(20,3) list(60) table(60)&#34;,&#34;categoryView=grid&#34;,&#34;searchView=list&#34;,&#34;id=my-store-26088866&#34;);     xCategoriesV2(&#34;id=my-categories-26088866&#34;);      Ecwid.init();     xSearch(&#34;id=my-search-26088866&#34;);   </description>
+    </item>
+    
+    <item>
       <title>So what exactly is &#39;Zero Waste?&#39;</title>
       <link>https://www.glasspantrymilwaukee.com/zerowaste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
