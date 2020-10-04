@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Glass Pantry</title>
-    <link>https://www.glasspantrymilwaukee.com/</link>
+    <link>/</link>
     <description>Recent content on The Glass Pantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.glasspantrymilwaukee.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>https://www.glasspantrymilwaukee.com/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/faq/</guid>
+      <guid>/faq/</guid>
       <description>How does it work? Buying in bulk means you get to choose the quantity of a product you need and pay by weight. Dispense into a container of your choosing and pay only for what you need. Feel free to bring your own clean containers to fill or use what we have in the store.  Who are your suppliers? Our goal is to use local and organic suppliers whenever possible.</description>
     </item>
     
     <item>
       <title>Here are some great resources to check out!</title>
-      <link>https://www.glasspantrymilwaukee.com/resources/</link>
+      <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/resources/</guid>
+      <guid>/resources/</guid>
       <description> Zero Waste Home Plastic Free MKE Kompost Kids Milwaukee Recycling Facility Milwaukee Riverkeeper Keep Greater Milwaukee Beautiful Compost Crusader Rock the Green  </description>
     </item>
     
     <item>
       <title>Hi, My name is Jenna.</title>
-      <link>https://www.glasspantrymilwaukee.com/owner/</link>
+      <link>/owner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/owner/</guid>
+      <guid>/owner/</guid>
       <description>Hi. My name is Jenna and I want to make your zero waste journey a little less difficult. When I started trying to reduce waste in my own home, I found that the bulk section was an awesome place to hang out. Buying in bulk allowed me to easily avoid packaging, get the quantities I wanted, and save money. I was all like, “This isn’t so hard, my garbage can will be history in no time!</description>
     </item>
     
     <item>
       <title>Online Shop</title>
-      <link>https://www.glasspantrymilwaukee.com/shop/</link>
+      <link>/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/shop/</guid>
+      <guid>/shop/</guid>
       <description>  xProductBrowser(&#34;categoriesPerRow=3&#34;,&#34;views=grid(20,3) list(60) table(60)&#34;,&#34;categoryView=grid&#34;,&#34;searchView=list&#34;,&#34;id=my-store-26088866&#34;);     xCategoriesV2(&#34;id=my-categories-26088866&#34;);      Ecwid.init();     xSearch(&#34;id=my-search-26088866&#34;);   </description>
     </item>
     
     <item>
       <title>So what exactly is &#39;Zero Waste?&#39;</title>
-      <link>https://www.glasspantrymilwaukee.com/zerowaste/</link>
+      <link>/zerowaste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/zerowaste/</guid>
+      <guid>/zerowaste/</guid>
       <description>It’s no secret that our society’s trash problem is out of control. Americans are generating a staggering 254 million tons of garbage a year, triple what we were producing 70 years ago due largely to the overproduction and overconsumption of plastic. Since 1960, plastic production for packaging and disposable products has rapidly increased and recycling efforts are not doing much to counteract this explosion. A whopping 80% of the things Americans throw in the trash could have been recycled but instead will contribute to soil pollution and greenhouse gas emissions produced by the country’s 2,000 landfills.</description>
     </item>
     
     <item>
       <title>Upcoming Events!</title>
-      <link>https://www.glasspantrymilwaukee.com/events/</link>
+      <link>/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/events/</guid>
+      <guid>/events/</guid>
       <description>Coming soon
 Stay tuned for workshops, classes, and events!</description>
     </item>
     
     <item>
       <title>Weigh, pay, be on your way!</title>
-      <link>https://www.glasspantrymilwaukee.com/pay/</link>
+      <link>/pay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/pay/</guid>
+      <guid>/pay/</guid>
       <description>When your containers are filled and you are ready to check out, bring your items back to the counter. A team member will weigh your filled containers and subtract the tare weight for your final price. They will then calculate the price per pound based on the bin number you indicated on each container. If you will be reusing a container in the future, feel free to keep your tare weight sticker on the container.</description>
     </item>
     
     <item>
       <title>What&#39;s available for refill?</title>
-      <link>https://www.glasspantrymilwaukee.com/fill/</link>
+      <link>/fill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/fill/</guid>
+      <guid>/fill/</guid>
       <description>Once we have tared your empty containers, you can fill them with what you need. Use the funnels provided if the mouth of your container is small. Always use the scoops and tongs provided - No bare hands in the bins! Write the bin number next to the tare weight on your container and you are all set. Our selection is ever changing based on YOUR feedback so if we don’t have something you are looking for, please let us know!</description>
     </item>
     
     <item>
       <title>What&#39;s the deal with BYO Containers?</title>
-      <link>https://www.glasspantrymilwaukee.com/containers/</link>
+      <link>/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.glasspantrymilwaukee.com/containers/</guid>
+      <guid>/containers/</guid>
       <description>In order to shop zero-waste, you will need some supplies. Round up some containers and bring them in to fill with the products you need. Jars, bags, bottles, tupperware, anything will work! As long as it is clean, you can fill it. When you get to the store, see a team member at the counter and we will weigh and provide you with a tare weight for each of your containers.</description>
     </item>
     
